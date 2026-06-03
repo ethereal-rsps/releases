@@ -1,8 +1,8 @@
 {
-  "version": "6a4c0a1c2749d6492563d4c6aaba5b3e782d2426",
-  "timestamp": "2026-06-02T21:00:26Z",
-  "client_hash": "c5b7f985bb02300ccd42107bbc6aa5cd6713ea1dc194ca4d03ef215058017967",
+  "version": "build-34",
+  "timestamp": "2026-06-03T00:09:05Z",
+  "client_hash": "62800eb8fa53ce0b763ba341f15597284726de56efe4402eed175940609f1b54",
   "cache_hash": "cache-v3",
-  "client_url": "https://raw.githubusercontent.com/FHaisal/ethereal-releases/main/client.jar",
-  "cache_url": "https://drive.usercontent.google.com/download?id=1bLzwNXHruvkzTQtM2cnG-JoWh10wAvrh&export=download&authuser=0&confirm=t&uuid=327cb8c3-4d2c-4d50-90c9-72a0fdb66bbf&at=AAINaIIBVisRZqvatAdWamUurwoU%3A1780427626372"
+  "client_url": "https://github.com/ethereal-rsps/releases/releases/latest/download/client.jar",
+  "cache_url": "https://github.com/ethereal-rsps/releases/releases/latest/download/cache.zip"
 }
