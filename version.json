@@ -1,8 +1,8 @@
 {
-  "version": "build-37",
-  "timestamp": "2026-06-03T00:34:01Z",
-  "client_hash": "2fbe8e03b2a460a890411a4ea3b15e36fee168f68299f8cc64489592d1eba9b6",
+  "version": "build-38",
+  "timestamp": "2026-06-03T00:42:50Z",
+  "client_hash": "752f284c4dc5ae01e9de9667466439b62f1ba14d611da4a25b6cf6c07f582229",
   "cache_hash": "cache-v3",
-  "client_url": "https://github.com/ethereal-rsps/releases/releases/latest/download/client.jar",
+  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-38/client.jar",
   "cache_url": "https://github.com/ethereal-rsps/releases/releases/latest/download/cache.zip"
 }
