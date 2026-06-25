@@ -1,8 +1,8 @@
 {
-  "version": "build-77",
-  "timestamp": "2026-06-21T07:28:44Z",
-  "client_hash": "968b80fc3844f24179c2c1ae786130056ace88096d4b7b6d9d246d9caf1f9ccd",
-  "cache_hash": "1d0a50310482018106b67a118d388f3193ef47b25876bf4bd4b21e7de8069093",
-  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-77/client.jar",
-  "cache_url": "https://github.com/ethereal-rsps/releases/releases/download/build-77/cache.zip"
+  "version": "build-78",
+  "timestamp": "2026-06-25T19:48:17Z",
+  "client_hash": "a2f6d2faf5f2c78d00b3b8bdf85cccc764976f04d123236f4308efdd9a3a4027",
+  "cache_hash": "cf3d47f272cf4e50596086d6cf898eef0dd3fa7398f58670f5e68b0e832c292a",
+  "client_url": "https://github.com/ethereal-rsps/releases/releases/download/build-78/client.jar",
+  "cache_url": "https://github.com/ethereal-rsps/releases/releases/download/build-78/cache.zip"
 }
